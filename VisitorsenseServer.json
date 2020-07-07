@@ -1,0 +1,18 @@
+{
+    "Version": "1.0.0",
+    "AndroidApp": "https://play.google.com/apps?hl=en_IN",
+    "IosApp": "https://www.apple.com/in/ios/app-store/",
+    "UpdateMessage":"You are using an old version.PLease update your app.",
+    "Server": [
+        {
+            "ServerCode": 123456,
+            "ServerUrl": "https://visitorsense.isgvision.com/webapi/api/",
+            "ServerName": "Infosenseglobal"
+        },
+        {
+            "ServerCode": 123123,
+            "ServerUrl": "https://visitorsense.atozinfoway.in/webapi/api/",
+            "ServerName": "AtoZ Infoway"
+        }
+    ]
+}
