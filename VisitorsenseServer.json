@@ -5,7 +5,7 @@
     "UpdateMessage":"You are using an old version.PLease update your app.",
     "Server": [
         {
-            "ServerCode": 123456,
+            "ServerCode": 646070,
             "ServerUrl": "https://visitorsense.isgvision.com/webapi/api/",
             "ServerName": "Infosenseglobal"
         },
